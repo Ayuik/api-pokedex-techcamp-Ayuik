@@ -1,4 +1,4 @@
-//Este código código resuelve el problema del orden pero para desarrollarlo necesité ayuda de la IA. Entiendo la propuesta de la IA pero no sé si podría pensarla por mí  misma.
+//Este código resuelve el problema del orden pero para desarrollarlo necesité ayuda de la IA. Entiendo la propuesta de la IA pero no sé si podría pensarla por mí  misma.
 
 const APIURL = "https://pokeapi.co/api/v2/pokemon/"
 const poke_container = document.getElementById('poke-container')
